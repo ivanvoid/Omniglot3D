@@ -1,0 +1,7 @@
+opencv-python
+drawsvg
+trimesh
+scikit-image
+shapely
+svgpathtools
+mapbox_earcut
